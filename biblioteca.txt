@@ -1,0 +1,88 @@
+[
+  {
+    "tipo": "libro",
+    "titulo": "Kitchen",
+    "autor": "Banana Yoshimoto",
+    "anio": 1988,
+    "estado": "prestado"
+  },
+  {
+    "tipo": "libro",
+    "titulo": "Amrita",
+    "autor": "Banana Yoshimoto",
+    "anio": 1994,
+    "estado": "disponible"
+  },
+  {
+    "tipo": "libro",
+    "titulo": "La casa de las bellas durmientes",
+    "autor": "Yasunari Kawabata",
+    "anio": 1961,
+    "estado": "disponible"
+  },
+  {
+    "tipo": "libro",
+    "titulo": "País de nieve",
+    "autor": "Yasunari Kawabata",
+    "anio": 1947,
+    "estado": "disponible"
+  },
+  {
+    "tipo": "libro",
+    "titulo": "Lo bello y lo triste",
+    "autor": "Yasunari Kawabata",
+    "anio": 1964,
+    "estado": "disponible"
+  },
+  {
+    "tipo": "libro",
+    "titulo": "Una pastelería en Tokio",
+    "autor": "Dorian Sukegawa",
+    "anio": 2013,
+    "estado": "disponible"
+  },
+  {
+    "tipo": "libro",
+    "titulo": "Midaregami (Cabello desordenado)",
+    "autor": "Yosano Akiko",
+    "anio": 1901,
+    "estado": "disponible"
+  },
+  {
+    "tipo": "libro",
+    "titulo": "Tanka de amor",
+    "autor": "Yosano Akiko",
+    "anio": 1910,
+    "estado": "disponible"
+  },
+  {
+    "tipo": "libro",
+    "titulo": "Rashōmon",
+    "autor": "Ryunosuke Akutagawa",
+    "anio": 1915,
+    "estado": "disponible"
+  },
+  {
+    "tipo": "libro",
+    "titulo": "En el bosque",
+    "autor": "Ryunosuke Akutagawa",
+    "anio": 1922,
+    "estado": "disponible"
+  },
+  {
+    "tipo": "libro_digital",
+    "titulo": "Kitchen (Edición digital)",
+    "autor": "Banana Yoshimoto",
+    "anio": 1988,
+    "estado": "disponible",
+    "formato": "ePub"
+  },
+  {
+    "tipo": "libro_digital",
+    "titulo": "Una cuestión personal",
+    "autor": "Kenzaburo Oe",
+    "anio": 1964,
+    "estado": "disponible",
+    "formato": "pdf"
+  }
+]
